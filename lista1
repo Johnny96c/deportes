@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Deportes", ESPN 
+https://live.televisiongratishd.com/tvplus2021/17_.m3u8?token=hcIftmjT4gEVV3AMF4gpug&expires=1605665528
+
+#EXTINF:-1 group-title="Deportes", ESPN 2
+https://live.televisiongratishd.com/tvplus2021/18_.m3u8?token=WeLyVv7N4VFWFcvN9cK47w&expires=1605665353
+
+#EXTINF:-1 group-title="Deportes", ESPN 3
+https://live.televisiongratishd.com/tvplus2021/19_.m3u8?token=MWxAMucjbbGj8J8X5urKwA&expires=1605665579
+
+#EXTINF:-1 group-title="Deportes", ESPN DEPORTES
+https://live.televisiongratishd.com/tvplus2021/15_.m3u8?token=8Rvz_Hz0DKdWqY2dWUfotg&expires=1605665620
+
+#EXTINF:-1 group-title="Deportes", TDM EN VIVO
+https://unidfpclnlds164.akamaized.net/linear/hls/pb/event/D8RY01WsRv6SMK6X3AoWAg/stream/8c20b99f-780f-4acd-a741-4dc35c52c7fc:TPE/variant/895e4fc0a6bed69d2d0dfa5b572ea3ab/bandwidth/4500000.m3u8?hdntl=exp=1605730467~acl=*~id=4d032d49-7085-4ffb-be56-f6378323d364~data=hdntl~hmac=de6b66590323df40fac8eddaf43fe503bd73dc7a930267be2caa8aedc2077cdd
+
+#EXTINF:-1 group-title="Deportes", ESPN 2
+https://e10.habrox.xyz/ingestnb4s/espn2_sur/f.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN 3
+https://e10.habrox.xyz/ingestnb4s/espn3_sur/d.m3u8
+
+#EXTINF:-1 group-title="Deportes", MOVISTAR
+https://e1.habrox.xyz/ingest01/68691.m3u8?sf=cWE4QUg3TmRPNw==&token=6AinHuL0oVoQNcNbpnmDyQ&expires=1605658748&rnd=
+
+#EXTINF:-1 group-title="Deportes", ELIMINATORIAS 1
+https://e2.habrox.xyz/ingest01/65951.m3u8?sf=SGNmMWdaazg4NQ==&token=yQ4VM_uVap20AuyJFCWQAA&expires=1605658742&rnd=
+
+#EXTINF:-1 group-title="Deportes", ELIMINATORIAS UEFA 
+https://ul.cdn946.net:8443/hls/ajcru.m3u8?s=8jpGEn8gbAst5eCN0fbEeQ&e=1605666197
+
+#EXTINF:-1 group-title="Deportes", CARACOL 1
+https://e2.habrox.xyz/ingest01/65951.m3u8?sf=SGNmMWdaazg4NQ==&token=iPvcVK56jWje1dqdjiveAg&expires=1605659108&rnd=
+
+#EXTINF:-1 group-title="Deportes", CARACOL 2
+https://live.televisiongratishd.com/tvplus2021/59_.m3u8?token=6qDy21ob-m63OZ3EdEQDdw&expires=1605666419
+
+#EXTINF:-1 group-title="Deportes", GOL TV
+https://live.televisiongratishd.com/tvplus2021/7_.m3u8?token=2zqA0CYz81Bb6j8Tadrzzg&expires=1605666506
